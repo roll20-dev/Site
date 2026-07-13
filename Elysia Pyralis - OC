@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Name Here</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://static.vecteezy.com/system/resources/previews/031/322/618/large_2x/phoenix-bird-with-outstretched-wings-rising-burning-in-flames-epic-phoenix-bird-fire-rebirth-power-concept-by-ai-generated-free-photo.jpg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>Coming SoonTM</h3>
+		<b></b><br>
+		<b></b><br>
+		<b></b><br>
+		<b></b><br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>Elysia Pyralis</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Elysia Pyralis</div>
+	<img src="https://i.imgur.com/sDpNe5U.jpeg" alt="Main Image">
+
+<div class="side-sub">General Information</div>
+<div class="side-inner">
+
+	<b class="left">Name</b>
+	<div class="right">Elysia Pyralis</div>
+
+	<b class="left">Alias(es)</b>
+	<div class="right">
+	The Last Phoenix<br>
+	Flame-Mother<br>
+	The Lightbringer<br>
+	The Eternal<br>
+	</div>
+	
+	<b class="left">Status</b>
+	<div class="right">Ascended</div>
+	
+
+	<b class="left">Affiliations</b>
+	<div class="right">
+	<s>Pyralis Clan</s><br>
+	Pyralis Assembly<br>
+	</div>
+
+
+</div>
+
+<div class="side-sub">Characteristics</div>
+<div class="side-inner">
+
+	<b class="left">Race</b>
+	<div class="right">
+	 <s>Phoenix</s><br>
+	 Goddess<br>
+	 </div>
+	
+	<b class="left">Gender</b>
+	<div class="right">Female</div>
+
+	<b class="left">Age</b>
+	<div class="right">Unknown</div>
+
+	<b class="left">Height</b>
+	<div class="right">
+	 10'8"<br>
+ 328 ft (True Form)<br>
+	 </div>
+
+	<b class="left">Weight</b>
+	<div class="right">
+	 236lbs<br>
+	 </div>
+
+ <b class="left">Skin Tone</b>
+	<div class="right">Pale</div>
+
+	<b class="left">Eyes</b>
+	<div class="right">Golden</div>
+
+	<b class="left">Hair</b>
+	<div class="right">Orange & Red</div>
+
+	<b class="left">Notable Features</b>
+	<div class="right">
+	Feathered Wings<br>
+	</div>
+
+</div>
+
+</aside>
+
+<div id="quote">
+	<i>"The World is Reborn, and I shall guide it into the new eras to come."</i><br>
+	—Elysia Pyralis
+</div><br>
+
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	Elysia is a striking woman with an aura of fiery magnificence, her appearance a fusion of regal beauty and raw elemental power, adorned in intricate armor that seems to be crafted from living flames, with feathers of red, gold, and emerald hues forming a sleek, form-fitting bodice that accentuates her strong, graceful figure. Her fiery wings, expansive and radiant, glow with an otherworldly light, each feather resembling molten embers. Her hair, vibrant and flowing, mimics the movement of fire, curling and swirling around her as though it, too, is aflame. Her eyes, sharp and intense, reflect the depths of her power.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Personality</summary>
+
+ Elysia possesses a multifaceted personality, defined by her deep wisdom, fierce resolve, and unwavering compassion. As the embodiment of rebirth and renewal, she is both a protector and a destroyer, understanding the delicate balance between creation and destruction. Her wisdom has been forged over countless millennia, having witnessed civilizations rise and fall, and from this, she has developed a calm, almost serene demeanor. Despite her tranquility, she harbors a fierce, unyielding strength when it comes to defending the weak or correcting the imbalances in the world.<br><br>
+
+She carries a regal air, but is approachable and kind, especially toward those who show humility or seek to better themselves. Yet, she is not without intensity—her wrath is reserved for those who threaten the natural order or use power selfishly, and when provoked, her fury burns as hot as the flames that surround her. At her core, she is driven by a desire to guide and protect, deeply caring for the mortal races, though she maintains a certain distance, knowing that every life, must eventually go through the cycle of death and rebirth.<br><br>
+
+Her sense of duty is paramount; she constantly watches over her world to ensure that chaos never consumes creation entirely. While her flames can burn, they are also a source of healing and transformation. She believes in second chances, understanding that even in the darkest times, there is always the possibility for redemption and growth.
+
+	</details><br>
+
+<details open="open"><summary class="section-head">History</summary>
+
+<blockquote>
+	<h3>Origin</h3>
+	When Elysia hatched from her egg, the Phoenix race was already teetering on the edge of extinction. The once-proud clans had been consumed by endless wars of ideology, each battling for supremacy. Yet, their immortality became a curse. No matter how fierce their battles, the Phoenixes could not kill one another permanently. Desperate to win, they turned to mortals, granting them forbidden magic capable of slaying a Phoenix once and for all. <br><br>
+	
+	But in their hubris, the Phoenix clans failed to foresee the insatiable greed of mortal beings. Once humans discovered that Phoenix blood could grant eternal life, they turned against their benefactors. Armed with the very magic designed to end the wars, they hunted Phoenixes not for the sake of any clan, but for their own selfish desire to cheat death.<br><br>
+	
+	To protect their daughter from this ruthless genocide, Elysia's parents made the ultimate sacrifice. Using their life force, they sealed her away in a timeless realm, ensuring she would only awaken when the Phoenix race was no more.<br><br>
+
+	When Elysia finally emerged, she instinctively knew the truth: she was the last of her kind. The world she once knew had changed beyond recognition—scarred by the reckless use of magic by mortal hands. With a heavy heart, she wandered through lands now desolate and twisted, seeking solace in a secluded place where she waited for millennia, watching as the remnants of civilization crumbled to dust.<br><br>
+	
+	After untold ages in isolation, a growing sense of unease stirred within her. She ventured out once more, searching for life in a world that seemed long dead. A thousand more years passed, and still, she found no trace of the living—until she stumbled upon the legendary Grove of Origin, the cradle of all magic.<br><br>
+	
+	Deep within the overgrown grove, beneath vines and twisted roots, Elysia felt a powerful force calling to her. There, she discovered the twin primordial forces—the Seed of Life and the Flame of Chaos. Standing before these raw sources of creation and destruction, Elysia was irresistibly drawn to them. As she touched both, the energies merged with her own mana, imbuing her with the ultimate power: the ability to remake the world.<br><br>
+	
+	With the Seed of Life and the Flame of Chaos now coursing through her, Elysia knew her purpose. She was no longer the last Phoenix, but the rebirth of all things. The fate of the world was in her hands.<br><br>
+	
+	<h3>Rebirth</h3>
+	After centuries of reflection and mastering the limitless power coursing through her, Elysia resolved to remake the world in the only way a Phoenix could—through fire and rebirth. Drawing upon her very essence, she unleashed a cataclysmic inferno that consumed the remnants of the old world, reducing it to ash. But from the cinders, life began anew. With the flames of her power, Elysia forged a new world, vibrant and untouched by the sins of the past.<br><br>
+	
+	As the final embers cooled and the world was reborn, Elysia transcended her mortal form, ascending to the realm of the divine. Now a goddess of creation and flame, she turned her gaze to the cosmos, seeking out beings worthy of standing by her side. She formed the Pyralis Assembly, a council of ascended souls, chosen for their wisdom, strength, and compassion. Together, they vowed to watch over the fledgling mortal races, guiding them along the path of growth and harmony, ensuring that the greed and destruction that once ravaged her people would never be repeated.<br><br>
+	
+	Elysia, the Phoenix Goddess, now stood as the eternal guardian of balance—her flames a reminder that even in destruction, there is always the promise of rebirth.
+	
+</blockquote>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Pyralis Assembly Members</summary>
+<ul>
+ <b>The Gods and Goddesses of the Assembly, each representing a different race, were carefully chosen to ensure that no single group disrupts the balance of power.</b><br><br>
+ 
+	<li>Elysia - Goddess of Creation & Chief Divine (<s>Phoenix</s>)
+	<li>Vervarda - Goddess of War (<s>Dragon</s>)
+	<li>Erynthel - God of Death (<s>Human</s>)
+	<li>Lirathia - Goddess of Love & Beauty (<s>Nymph</s>)
+	<li>Ithriska - Goddess of Wisdom & Knowledge (<s>Sphinx</s>)
+	<li>Thalindor - God of Justice (<s>Elf</s>)
+	<li>Aquilasha - Goddess of Storms & Seas (<s>Mermaid</s>)
+	<li>Inariko - Goddess of Trickery & Illusion (<s>Kitsune</s>)
+	<li>Sylvaris - Goddess of Nature (<s>Fairy</s>)
+	<li>Ornn - God of Smithing & Craft (<s>Dwarf</s>)
+	<li>Tralminar - God of Fortune & Trade (<s>Gnome</s>)
+</ul>
+
+</details><br>
+
+<details><summary class="section-head">Powers & Abilities</summary>
+
+ Coming SoonTM
+
+<blockquote>
+	<h3>Ability Type</h3>
+	Ability info here<br><br>
+
+	<h3>Ability Type</h3>
+	Ability info here<br><br>
+
+	<h3>Ability Type</h3>
+	Ability info here
+</blockquote>
+
+</details><br>
+
+
+
+<details><summary class="section-head">Friends & Alliances</summary>
+<ul>
+	<li><a href="">???</a>
+	<li><a href="">???</a>
+	<li><a href="">???</a>
+	<li><a href="">???</a>
+	<li><a href="">???</a>
+	<li><a href="">???</a>
+	<li><a href="">???</a>
+</ul>
+
+</details><br>
+
+<details><summary class="section-head">Enemies & Rivals</summary>
+<ul>
+	<li><a href="">???</a> ?
+	<li><a href="">???</a> ?
+	<li><a href="">???</a> ?
+</ul>
+
+</details><br>
+
+<details><summary class="section-head">OOC</summary>
+
+<ul>
+ <li>Original Character Created 21/08/2017 for a Homebrew D&D World</li>
+ <li>Profile Created 29/03/2024</li>
+ <li>Profile will be in a constant state of change.</li>
+ <li>All images belong to me.</li>
+ </ul>
+
+
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {♥} BY TESSISAMESS</a>
+
+</body>
+</html>
