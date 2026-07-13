@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Sparrow D. Alys</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/tmtpRWX.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>Player Info</h3>
+		<b>Name</b> Name<br>
+		<b>Age</b> 00<br>
+		<b>Timezone</b> TZ<br>
+		<b>PB</b> PB Name<br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>Divine Tempest</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Sparrow D. Alys</div>
+	<img src="https://i.imgur.com/wQK43pP.jpeg" alt="Main Image">
+
+<div class="side-sub">General Information</div>
+<div class="side-inner">
+
+	<b class="left">Name:</b>
+	<div class="right">Sparrow D. Alys</div>
+
+	<b class="left">Epithet:</b>
+	<div class="right">Divine Tempest</div>
+
+ <b class="left">Official Title:</b>
+	<div class="right">Goko</div>
+	
+	<b class="left">Bounty:</b>
+	<div class="right">5,285,000,000</div>
+
+ <b class="left">Devil Fruit:</b>
+	<div class="right">Inu Inu no Mi, Model: Raiju</div>
+	
+	<b class="left">Crew:</b>
+	<div class="right">The Sparrow Pirates</div>
+	
+	<b class="left">Position:</b>
+	<div class="right">Grand Admiral</div>
+
+ <b class="left">Ship:</b>
+	<div class="right">The Storm Reaver</div>
+
+
+ <b class="left">Status:</b>
+	<div class="right">Alive</div>
+
+</div>
+
+<div class="side-sub">Characteristics</div>
+<div class="side-inner">
+
+	<b class="left">Gender:</b>
+	<div class="right">Female</div><br>
+
+	<b class="left">Age:</b>
+	<div class="right">27</div>
+
+	<b class="left">Height:</b>
+	<div class="right">5'9"</div>
+
+	<b class="left">Weight:</b>
+	<div class="right">127lbs</div>
+
+	<b class="left">Eyes:</b>
+	<div class="right">Brown</div>
+
+	<b class="left">Hair:</b>
+	<div class="right">Navy Blue</div>
+
+</div>
+
+<summary class="side-sub">Extended Information</summary>
+<div class="side-inner">
+
+	<b class="left">Affiliations</b>
+	<div class="right">
+	Sparrow Pirates<br>
+	Five Emperors<br>
+	<s>Whitebeard Pirates</s><br>
+	<s>Marines</s><br>
+	</div>
+
+	<b class="left">Occupations:</b>
+	<div class="right">
+	Pirate Captain<br>
+	Emperor<br>
+	<s>Marine Captain</s><br>
+	</div>
+	
+	<b class="left">Relationship Status:</b>
+	<div class="right"><br>Single</div>
+
+	<b class="left">Orientation:</b>
+	<div class="right">Bisexual</div>
+	
+	<b class="left">Relatives:</b>
+	<div class="right">
+	Sparrow D. Jack<br>(Father)<br>(Marine Vice-Admiral)<br>
+	<s>Varentos Alista</s><br>(Mother)<br>
+	Sparrow D. Hina<br>(Grandmother)<br>(Marine Fleet Admiral)<br>
+	</div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"Trust...? You dare mention trust? That same trust in the Marines is what cost my mother her life!"</i><br>
+	~ Sparrow D. Alys
+</div><br>
+
+	This is my One Piece OC set in an alternate universe, as such many things will be different from the Cannon Lore.<br><br>
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	Sparrow D. Alys boasts long, wavy dark blue hair that flows elegantly over her shoulders and down her back, with a few strands artfully braided near the crown. Her light skin, dusted with freckles, adds to her youthful charm. Alys typically dons a white off-shoulder ribbed sweater that highlights her shoulders, paired with fitted, muted olive green pants held in place by a black belt featuring golden accents. Alternatively, she may wear a sleek dark long-sleeved top with slightly sheer sleeves, complemented by high-waisted, form-fitting black pants and a minimalist black belt. Alys is always seen with her katana, Shodai Kitetsu, never far from her side.
+	
+
+</details><br>
+
+<details><summary class="section-head">Personality</summary>
+
+	Coming SoonTM
+
+</details><br>
+
+<details open="open"><summary class="section-head">Weapons & Abilities</summary>
+
+<blockquote>
+	<h3>Devil Fruit</h3>
+	<b>Japanese Name:</b> Inu Inu no Mi, Model: Raiju<br><b>English Name:</b> Dog Dog Fruit, Model: Raiju<br><b>Classification:</b> Mythical Zoan (Awakened)<br><br>
+	
+	<b>Description:</b><br>
+	The Inu Inu no Mi, Model: Raiju is a carnivorous Mythical Zoan-class Devil Fruit that grants the user the ability to transform into a raiju at will as well as the ability to assume a hybridized form. In addition, the user is granted enhanced physical and sensory abilities in their transformed states including: strength, speed, durability, agility, reflexes, vision, smell, hearing. Owing to their strong affinity with lightning, they are unharmed by electrical fields & currents, along with this due to the nature of the raiju all lightning emitted is a pale blue colour.<br><br>
+	
+	<b>Full Form:</b><br>
+	This form is a massive, hulking beast with superficially lupine features at first glance. However, a closer look would reveal a mix of fur, scales, scutes, and spines with a body plan and physical proportions that would put it at odds with its classification. The creature's scales are blue, its scutes and spikes a distinct yellow color, and its fur white. Its piercing electric blue eyes matches the patches of glowing blue energy that radiate from its orbits. Similarly, there are glowing energy lines that run alongside the shoulder scutes. This form has highly-developed limbs as well as sharp fangs and claws. Atop its head sit two forward-facing horns in addition to two smaller spikes facing forward from its chin. Its forelimbs are noticeably larger than its hind limbs, though it has the ability to rear up onto its hind limbs for brutal blows. Adding to the creature's already wicked claws are a set of two similarly wicked dewclaws extending laterally, instead of medially, from each paw. The raiju's tail is well-developed, flattened, and very long. Because of this, the creature's total length sits at roughly 60 ft (18.2 m) long, and its height at 15 ft (4.75 m). Despite its hulking form, the creature is deceptively fast and agile, capable of amazing maneuvers and acrobatics both on land and in air. When charged and exuding his full might, its fur stands on end, its horns angle up slightly, the rows of shoulder and dorsal scutes flip up to form spikes and additional glowing energy patches light up along the forelimb scutes and underside of the tail. In its pure energy form, the raiju appears as blinding bright blueish-white plasma or lightning.<br><br>
+	
+	<b>Hybrid Form:</b><br>
+	This form is a mix of Alys' natural human form and the full form, granting the user the best of both worlds. True to its name, the hybrid form takes on a more humanoid build and stature, albeit standing at roughly 11 ft (3.3 meters) tall. The head bears a near identical appearance to the full form, albeit sized down and somewhat shorter and narrower, with the similarly piercing electric blue eyes. This form retains the coloration of the full form as well. Unlike the full form, the legs are longer, though thicker, matching the beefiness of the arms. The anatomy of the lower extremities is modified into a digitigrade stance. Each wrist and ankle retains the pair of wicked dewclaws extending laterally. The tail is noticeably shortened, however still somewhat long despite this.<br><br>
+	
+	<b>Abilities:</b>
+	<li>Electrokinesis</li>
+	<li>Lightning Transformation</li>
+	<li>Fire and Heat Resistance</li>
+	<br><br>
+	
+	<b>Weaknesses:</b>
+	<li>The user is incapacitated when submerged in water above knee level and is weakened by physical contact with Kairōseki (Seastone)</li>
+	<li>Any materials that resist the flow of electricity grant resistances to the user's electricity-based attacks (e.g. rubber).</li>
+	<br><br>
+
+	<h3>Haki</h3>
+	Sparrow D. Alys possesses the ability to use all three types of Haki and has fully mastered each of them to their highest potential.<br><br>
+	<b>Advanced Haoshoku Haki:</b><br>
+	Color of the Supreme King, or simply Conqueror's Haki, grants the user the ability to unleash their own willpower in order to overpower the will of others. This results in victims being mentally overwhelmed by the user, with particularly weak-willed foes instantly losing consciousness. It can also apply pressure onto objects and damage them, a clash between two particularly strong Supreme King Haki users is capable of "splitting the heavens". Unlike the other types of Haki which can be learned by anyone, Supreme King Haki is a rare ability that only one in several million people are born with the ability to use.<br>
+
+<li>an advanced level of Supreme King Haki allows the user to infuse their conquering spirit into their weapons and physical attacks, greatly augmenting their power. Only a small handful of the most powerful Supreme King Haki users are able to achieve this.</li>
+
+<li>Another advanced level of Supreme King Haki allows for the ability to manipulate one's aura or presence, which negates an opponent's ability to sense the user with Observation Haki.</li><br><br>
+	
+	<b>Advanced Kenbunshoku Haki:</b><br>
+	Color of Observation Haki, or simply Observation Haki, gives the user a sixth sense of the world around them, allowing them to sense the presence, strength, and emotions of other people, even if they are out of sight or far away. It also grants limited precognitive abilities, allowing the user to sense their opponents' intentions and predict their actions and attacks before they happen.<br>
+
+<li>An advanced level of Observation Haki allows the user to actually foresee a short period into the future.</li><br>
+	
+	<b>Busoshoku Haki:</b><br>
+	Color of Armament Haki, or simply Armament Haki, allows the user to use their own aura as armor to defend against attacks, as well as make their own attacks more potent. It can also be used to bypass Devil Fruit defenses, such as the intangibility of a Logia. A person can apply the armament to a section of their body, over their entire body, and even imbue it onto their weapons. A coating of Armament Haki will cause the coated area to turn a shiny black, and a particularly thick and powerful coating will have a flame-like pattern along its edge.<br>
+
+<li>An advanced level of Armament Haki allows the user to emit the armament a short distance without a medium.</li>
+
+<li>A higher grade of advanced Armament Haki allows the user to make the emitted armament flow into a target's body and destroy it from the inside-out.</li><br>
+
+	<h3>Sword</h3>
+	<b>Shodai Kitetsu:</b><br>
+	Shodai Kitetsu is one of the 12 Supreme Grade swords. Like the other Kitetsu swords, it is said to be a "Cursed Sword".<br><br>
+	
+	As one of the 12 Supreme Grade swords, Shodai Kitetsu is among the strongest, highest-quality swords ever smithed, on par with the likes of Dracule Mihawk's Yoru, Gol D. Roger's Ace and Whitebeard's Murakumogiri. Yet, like the other Kitetsu swords, the Shodai is supposedly cursed so that it will bring a horrible death upon whoever wields it.<br><br>
+	
+	It seems that the Kitetsu series came to be weaker with each new sword. Being the highest grade of the three, Shodai Kitetsu is not only the first of the swords but the strongest.<br>
+</blockquote>
+
+</details><br>
+
+<details open="open"><summary class="section-head">History</summary>
+
+<blockquote>
+	<h3>Early Life</h3>
+	Born into the Sparrow family on the rugged, storm-laden Island of Vervarda, Alys was born to, Sparrow D. Jack, a steadfast Marine Vice Admiral, and Varentos Alista owner of The Varentos Tavern. Due to her grandmother being, the legendary Marine Admiral Sparrow D. Hina, Alys' early years were shaped with a relentless dedication to the Marine cause. From a young age, her life was forged in rigorous training, every lesson preparing her to carry forward her family’s legacy and uphold the Sparrow name within the ranks of the Marines.<br><br>
+	
+	When Alys was old enough, she enlisted in the Marines and swiftly earned her place among their ranks. Her skill and determination were unmatched, and by just 18, she had risen to the esteemed rank of Captain, a feat rarely achieved by one so young. For a year, she commanded with strength and resolve—until tragedy struck. Her home town was destroyed and her mother was brutally murdered by pirates, who seized upon the absence of Marines after they were summoned from Vervarda to join a critical Buster Call. This loss etched a deep scar in Alys’s heart, fueling a new fire within her that would drive her journey forward.<br><br>
+
+	<h3>Defection & Found Family</h3>
+	Disillusioned by the Marine's betrayal and seeking her own path, Alys broke free from their ranks, setting sail to carve out her destiny. Her journey took a thrilling turn when she discovered the fabled Inu Inu no Mi: Model Raiju, a Devil Fruit of ancient, storm-forged power. Without hesitation, she ate it, harnessing the electric fury of the mythical Raiju. Shortly after, fate brought her to Whitebeard himself. Days of conversation with the legendary captain unveiled a kindred spirit, and Alys chose to join his crew, setting her course as a pirate.<br><br>
+
+Over the next five years, Alys rose to prominence among the Whitebeard Pirates, who had become her true family. Her strength and loyalty earned her the revered title of Division Commander, and the world came to know her as the "Divine Tempest." With a bounty of 2,143,000,000 Berries on her head, she was a force to be reckoned with. But in her sixth year with Whitebeard’s crew, tragedy struck. Blackbeard’s betrayal led to the capture of Ace, who's execution was quickly organised at Marineford. The ensuing battle ended up claiming both Ace’s life and that of Whitebeard himself, leaving Alys with a heavy heart and a burning desire for vengance against Blackbeard & The Marines.<br><br>
+
+	<h3>Post Paramount War - Present</h3>
+	In the two turbulent years following the Paramount War, Alys gathered a powerful crew—the Sparrow Pirates—whom she treated as her own kin. Fueled by vengeance and ambition, she launched ruthless assaults on Marine convoys, struck fear into the hearts of World Nobles, and tirelessly hunted the infamous Blackbeard. Her relentless rise culminated in an epic showdown against Argon Xilentino, one of the Five Emperors of the Sea. After defeating and killing him in combat, she seized his territories and took his place among the Emperors of the Sea for herself.<br><br>
+
+Her constant raids and her terrifying mastery of the Awakened Raiju Devil Fruit made her a nightmare for the World Government, who recognized her as a grave threat to world stability. Alys's position as an Emperor and her insurrectionary crusade led them to increase her bounty to the staggering amount of 5,285,000,000 Berries, branding her as one of the world’s most dangerous and untameable figures and granting her the second highest bounty ever issued.
+</blockquote>
+
+</details><br>
+<details open="open"><summary class="section-head">New Sparrow Pirates</summary>
+<ul>
+	<li><b><u>Vice-Captain:</u></b> <a target="_blank" href="https://roleplay.chat/profile.php?user=Shochi+Meisuru">Raven Dawson</a>
+	<li><b><u>Navigator:</u></b> <a href="">??</a>
+	<li><b><u>Helmsman:</u></b> <a href="">??</a>
+	<li><b><u>Doctor:</u></b> <a href="">??</a>
+	<li><b><u>Quartermaster:</u></b> <a href="">??</a>
+	<li><b><u>Musician:</u></b> <a href="">??</a>
+</ul>
+</details><br>
+
+<details open="open"><summary class="section-head">Gallery</summary>
+
+<br><br><br>
+<h1>Shodai Kitetsu</h1>
+	<img src="https://i.imgur.com/eQ6D6bX.png" alt="Main Image">
+
+<br><br><br>
+<h1>Sparrow Pirates Jolly Roger</h1>
+	<img src="https://i.imgur.com/tMUW65o.jpeg" alt="Main Image">
+
+<br><br><br>
+ <h1>Storm Reaver</h1>
+	<img src="https://i.imgur.com/ySoMbcN.jpeg" alt="Main Image">
+	
+<br><br><br>
+<h1>Wanted Poster</h1>
+	<img src="https://i.imgur.com/VmG7rkA.jpeg" alt="Main Image">
+
+</details>
+
+	<br><br><h2><center>All images are owned by their respective creators and may be replaced upon request for removal.</center></h2><br><br> 
+	
+	<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {&hearts;} BY TESSISAMESS</a>
+
+</details>
+
+</article>
+
+</body>
+</html>
