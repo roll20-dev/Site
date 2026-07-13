@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Elysa Uchiha</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url()center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+
+	</div>
+
+	<h1>Elysa Uchiha</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title"></div>
+	<img src="https://i.ibb.co/KcWhkMpx/4081-Soon-TM.png" alt="Main Image">
+
+<div class="side-sub">General Information</div>
+<div class="side-inner">
+
+	<b class="left">Real Name</b>
+	<div class="right">Elysa Uchiha</div>
+
+	<b class="left">Current Alias</b>
+	<div class="right">The Crimson Lotus<br>The Unbroken Guardian<br>The Severing Eye<br>The Kinslayer Lotus<br>The Six-Bladed Lotus</div>
+
+	<b class="left">Status</b>
+	<div class="right">Alive</div>
+
+</div>
+
+<div class="side-sub">Characteristics</div>
+<div class="side-inner">
+
+	<b class="left">Gender</b>
+	<div class="right">Female</div>
+
+	<b class="left">Age</b>
+	<div class="right">27</div>
+
+	<b class="left">Height</b>
+	<div class="right">5'7"</div>
+
+	<b class="left">Weight</b>
+	<div class="right">139lbs</div>
+
+	<b class="left">Eyes</b>
+	<div class="right">Black</div>
+
+	<b class="left">Hair</b>
+	<div class="right">Black</div>
+
+	<b class="left">Unusual Features</b>
+	<div class="right">
+	Sharingan<br>
+	Mangekyō Sharingan<br>
+	Eternal Mangekyō Sharingan<br>
+	</div>
+
+</div>
+
+
+<summary class="side-sub">Aditional Information</summary>
+<div class="side-inner">
+
+		<b class="left">Marital Status</b>
+	<div class="right">Single</div>
+
+	<b class="left">Affiliations</b>
+	<div class="right">
+	Uchiha Clan<br>
+	Konohagakure<br>
+	</div>
+
+	<b class="left">Relatives</b>
+	<div class="right">
+	Mai Senju (Deceased)<br>
+	Kaelen Uchiha (Deceased)<br>
+	Jusho Uchiha (Alive)<br>
+	</div>
+
+ <b class="left"></b>
+ <div class="right"></div>
+<!--Job<br>
+ Job<br>
+ Job<br>-->
+ </div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+<!--	<i>"Quote here."</i><br>
+	—Name Here-->
+</div><br>
+
+	<!--General summary here.<br><br>-->
+
+<details><summary class="section-head">Appearance</summary>
+
+	Coming SoonTM
+
+</details><br>
+
+<details><summary class="section-head">Personality</summary>
+
+	Coming SoonTM
+
+</details><br>
+
+<details open="open"><summary class="section-head">Powers & Abilities</summary>
+
+<blockquote>
+ 
+ <h3>Sharingan</h3>
+ The Sharingan grants the wielder two broad abilities: the "Eye of Insight" (洞察眼, Dōsatsugan) and the "Eye of Hypnotism" (催眠眼, Saimingan). Although the abilities are not literally restricted to certain eyes, Madara Uchiha noted that the Sharingan can only be used to its full potential when both eyes are together. Even within these two categories, there may exist several distinct though similar abilities:<br><br>
+
+<b>"Eye of Insight"</b>
+<li>The user can see chakra, giving it colour in order to distinguish it by its composition and source, allowing it to see if they are under genjutsu and see if their opponent is a Clone, described as granting the ability to see the flow and nature of chakra (流れとその性質がわかるようになる。, nagare to sono seishitsu ga wakaru yō ni naru as). Though not as capable in this regard as the Byakugan, it can see chakra through some (but not all) obstructions and detect irregularities in a person's chakra flow, such as those caused by genjutsu influence.</li>
+
+<li>The user is granted incredible clarity of perception, enabling them to read lips or mimic something like pencil movements.[26] Sasuke Uchiha's Sharingan was even able to see on a cellular level. In combat, this allows them to see fast-moving objects and, once fully developed, offers some amount of predictive capabilities: they can anticipate an opponent's next move based on the slightest muscle tension in their body and act accordingly to dodge or intercept. They can also read the enemy's hand seals to give them an insight of the performed technique's nature, regardless of the speed of performance, so long as the hands are not physically hidden from view. Although a Sharingan user can see these things, they also need the physical ability to actually act on the visual information. In the anime, it is shown that with advanced enough prowess, via eye contact, the user can even enter the target's mind to look through their memories, and even erase them within a long range for several targets.</li>
+
+<li>The user is able to copy almost any jutsu they see, memorising ninjutsu, genjutsu, and taijutsu with near-perfect accuracy. They can then either perform that jutsu or modify it to suit their needs, as when Sasuke Uchiha bases his Lion Combo on Rock Lee's Front Lotus.</li><br><br>
+
+<b>"Eye of Hypnotism"</b>
+<li>The user can perform what is generically called Genjutsu: Sharingan. While there are various manifestations and purposes of the ability, the better known one is to, through eye contact, suggest thoughts and actions to a target, coercing them to divulge information or act in a particular way, potentially without the target's awareness. In extreme cases, the Sharingan user can take complete control of the target's body, forcing them to do exactly as the controller wishes; this control is visually indicated by the Sharingan's design appearing in the target's eye. The Uchiha are particularly infamous for using this ability on the tailed beasts, and in fact can enter its or a jinchūriki's subconscious to more precisely control the beast's chakra. Multiple targets can be taken control of in this way, though the more divided the user's attention is, the easier it is for targets to escape this control.</li>
+
+<li>While not an ability per se, the Sharingan user can appear as if they are able to "see the future". First, the user must perfectly mimic every move their opponent makes and possibly their thoughts and words through careful observation. Then, they suggest an action to the opponent such as hand seals for a technique that the opponent and Sharingan user already know and copy that. With these things done, the user can complete the action even before the opponent does, possibly using the Sharingan's genjutsu to confuse or delay them.</li>
+
+<li>In addition to these abilities, the Sharingan can also enhance the user’s combat power through channeling their strong emotions. These eyes also allow the user access to performing two powerful genjutsu: Izanagi allows the user to warp reality for a short time, changing reality into illusion and illusion into reality, thus escaping death and rewriting destiny; Izanami traps the victim in an infinite loop disregarding the target's five senses, specifically designed as a reprimand for those who would abuse Izanagi. Use of either ability causes the Sharingan with which it is performed to be blinded afterwards, and for that reason the Uchiha classified them as kinjutsu.</li><br>
+
+	<h3>Mangekyō Sharingan (Left Eye) - Iwanagahime</h3>
+
+Iwanagahime allows Elysa to establish a persistent spiritual and chakra bond with someone she genuinely loves and considers under her protection.<br><br>
+
+The bond must initially be created through direct eye contact. Once established, it remains active across great distances.<br><br>
+
+<b>Through the bond, Elysa senses:</b>
+<li>The protected person’s general direction.</li>
+<li>Their approximate distance.</li>
+<li>Their physical condition.</li>
+<li>Injury or critical danger.</li>
+<li>Sudden fear and emotional distress.</li>
+<li>Hostile intent directed toward them.</li>
+<li>The moment an attack becomes an immediate threat.</li><br>
+
+Elysa does not constantly see through the protected person’s eyes or hear their conversations. Most of the time, the connection exists as a quiet presence within her mind. When genuine danger appears, Iwanagahime activates. Elysa briefly sees the protected person and their surroundings from an elevated perspective, as though they stand within the centre of a spectral crimson lotus.<br><br>
+
+This allows her to manifest <b>The Unbroken Circle: </b>
+
+A black-and-crimson circular barrier forms around the protected person—even when Elysa is far away.
+
+The Circle does not merely absorb attacks.
+
+It redirects hostile force around its centre.
+
+Flames divide around the protected person.
+Weapons bend away from their intended path.
+Explosions flow around the boundary.
+Chakra attacks are diverted away.
+
+The protected person remains untouched within the heart of the lotus.<br><br>
+
+	<h3>Mangekyō Sharingan (Right Eye) - Futsunushi</h3>
+
+Futsunushi allows Elysa to perceive supernatural connections as visible chakra threads. She can sever those connections using an invisible ocular blade. Futsunushi does not indiscriminately cut bodies or physical objects. It destroys the connection through which control, influence or supernatural harm is being inflicted.<br><br>
+
+<b>Elysa can sever:</b>
+
+<li>Genjutsu connections.</li>
+<li>Chakra strings.</li>
+<li>Puppet control.</li>
+<li>Possession techniques.</li>
+<li>Chakra-draining links.</li>
+<li>Curses.</li>
+<li>Control techniques.</li>
+<li>Hostile seals.</li>
+<li>Sensory techniques tracking another person.</li>
+<li>An enemy’s control over an active ninjutsu.</li><br>
+
+When Elysa is physically present, she must see the connection herself. When combined with Iwanagahime, she can perceive hostile connections through her protective bond and sever them remotely.<br><br>
+
+	<h3>Mangekyō Sharingan (Both Eyes) - Sanbengokai</h3>
+	<h4>“The Three-Petalled Realm of Protection”</h4>
+	By using Iwanagahime and Futsunushi together, Elysa creates a temporary protective territory and a vast spectral three-petalled lotus appears beneath the area.<br><br>
+
+<b>Within Sanbengokai:</b>
+
+<li>Elysa immediately perceives threats directed toward her protected person.</li>
+<li>The Unbroken Circle redirects incoming attacks.</li>
+<li>Hostile chakra connections become visible.</li>
+<li>Genjutsu can be severed.</li>
+<li>Curses and control techniques can be broken.</li>
+<li>Hostile chakra entering the protected territory can be disconnected from its source.</li><br>
+
+The technique is extraordinarily taxing and repeated use rapidly damages both eyes.<br><br>
+
+	<h3>Eternal Mangekyō Sharingan (Left Eye) - Eternal Iwanagahime</h3>
+	
+After awakening the Eternal Mangekyō, Iwanagahime evolves.<br><br>
+
+<b>Elysa can now:</b>
+<li>Maintain several protective bonds.</li>
+<li>Sense danger across far greater distances.</li>
+<li>Perceive threats with greater clarity.</li>
+<li>Maintain danger-vision for longer.</li>
+<li>Identify multiple attackers.</li>
+<li>Manifest several Unbroken Circles simultaneously.</li>
+<li>Protect multiple bonded people.</li>
+<li>Sustain barriers against repeated attacks.</li>
+<li>Allow bonded people to call to her during emergencies.</li>
+<li>Use the ability without losing her sight.</li><br>
+
+Because her Brother was the first person protected through Iwanagahime, and the reason the ability exists, his connection remains stronger than every other bond and Elysa always knows his direction regardless of distance.<br><br>
+
+	<h3>Eternal Mangekyō Sharingan (Right Eye) - Eternal Futsunushi</h3>
+
+Futsunushi becomes faster, stronger and more precise.<br><br>
+
+<b>Elysa can now:</b>
+
+<li>Perceive complex chakra connections instantly.</li>
+<li>Sever several hostile connections simultaneously.</li>
+<li>Break more powerful curses.</li>
+<li>Destroy complex control seals.</li>
+<li>Sever hostile chakra without harming the victim.</li>
+<li>Use Futsunushi across greater distances.</li>
+<li>Free several people from one controlling technique.</li>
+<li>Automatically expose hostile chakra entering an Unbroken Circle.</li><br><br>
+
+	<h3>Eternal Mangekyō Sharingan (Both Eyes) - Rokubengokai (三弁護界)</h3>
+	<h4>“The Six-Petalled Realm of Protection”</h4>
+	Rokubengokai is the completed evolution of Sanbengokai.
+
+An enormous six-petalled crimson-and-black lotus spreads beneath the battlefield.<br><br>
+
+All six petals curve clockwise into blades.<br><br>
+
+<b>Within Rokubengokai:</b>
+
+<li>Bonded allies are connected to Elysa’s awareness.</li>
+<li>Danger directed toward them is immediately perceived.</li>
+<li>Multiple Unbroken Circles manifest simultaneously.</li>
+<li>Attacks are redirected around protected allies.</li>
+<li>Genjutsu becomes visible.</li>
+<li>Curses and possession techniques are exposed.</li>
+<li>Hostile chakra connections are revealed.</li>
+<li>Futsunushi severs multiple hostile links.</li>
+<li>Protected allies can communicate distress through their bonds.</li>
+<li>Elysa senses their emotions without forcing them to carry hers.</li><br>
+
+</blockquote>
+
+</details><br>
+
+<!--<details><summary class="section-head">Friends & Alliances</summary>
+<ul>
+	<li><a href="">Friendname</a> Info here
+	<li><a href="">Friendname</a> Info here
+	<li><a href="">Friendname</a> Info here-->
+<!--</ul>
+</details><br>-->
+
+<!--<details><summary class="section-head">Enemies & Rivals</summary>
+<ul>
+	<li><a href="">Enemyname</a> Info here
+	<li><a href="">Enemyname</a> Info here
+	<li><a href="">Enemyname</a> Info here-->
+<!--</ul>
+</details><br>-->
+
+<details><summary class="section-head">History</summary>
+
+	Coming SoonTM
+
+<blockquote>
+	<h3></h3>
+	<br><br>
+
+	<h3></h3>
+	<br><br>
+
+	<h3></h3>
+	
+</blockquote>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Gallery</summary>
+<div id="gallery">
+
+	<div class="gal-itm">
+	<img src="https://i.ibb.co/yFSK0LGD/Elysa-Uchiha-Mangekyo-Sharingan-Design.png" alt="Mangekyō Sharingan">
+	</div>
+
+	<div class="gal-itm">
+	<img src="https://i.ibb.co/QvHFjQK8/Elysa-Uchiha-Eternal-Mangekyo-Sharingan-Design.png" alt="GEternal Mangekyō Sharingan">
+	</div>
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {&hearts;} BY TESSISAMESS</a>
+
+</body>
+</html>
