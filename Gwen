@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Thresh</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/75tH88g.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>OOC</h3>
+		<b>I shall play Gwen how I see fit.</b> <br>
+		<b>Profile Created (I can't Remember)</b> <br>
+		<b></b> <br>
+		<b></b> <br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>Gwen</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Gwen</div>
+	<img src="https://i.imgur.com/G4b2wRz.jpeg" alt="Main Image">
+
+<details open="open" class="extended">
+<summary class="side-sub">Titles</summary>
+<div class="side-inner">
+
+	<b class="left">Alias(es)</b>
+	<div class="right"><ul>
+ <li>The Hallowed Seamstress</li>
+</ul></div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Characteristics</summary>
+<div class="side-inner">
+
+	<b class="left">Species</b>
+<div class="right">Human (Magically Altered)<br><s>Doll</s></div>
+
+ <b class="left">Pronoun(s)</b>
+	<div class="right">She/Her<br></div>
+
+<b class="left">Age</b>
+	<div class="right">1037 years old<br></div>
+
+	<b class="left">Weapon(s)</b>
+	<div class="right">Scissors<br>Needles & Thread<br>Hallowed Mist</div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Personal Status</summary>
+<div class="side-inner">
+
+	<b class="left">Status</b>
+	<div class="right">Alive</div>
+
+	<b class="left">Place of Origin</b>
+	<div class="right">Camavor</div>
+
+	<b class="left">Current Residence</b>
+	<div class="right">Enchanted Manse<br><s>Shadow Isles</s></div>
+	
+	<b class="left">Family</b>
+	<div class="right">Isolde (creator)</div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Profesional Status</summary>
+<div class="side-inner">
+
+ <b class="left">Occupation(s)</b>
+	<div class="right">Seamstress<br></div>
+	
+	<b class="left">Faction(s)</b>
+	<div class="right"><s>Sentinals of Light</s><br></div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"The wind at my back feels so good. I can’t lose this. I won’t."</i><br>
+	<b>~Gwen</b>
+</div><br>
+
+	A former doll transformed and brought to life by magic, Gwen wields the very tools that once created her. She carries the weight of her maker’s love with every step, taking nothing for granted.<br><br>
+
+ At her command is the Hallowed Mist, an ancient and protective magic that has blessed Gwen’s scissors, needles, and sewing thread. So much is new to her, but Gwen remains joyfully determined to fight for the good that survives in a broken world.<br><br>
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	Gwen has the appearance of a pale young woman of medium stature. Her hair is blue and curled up in two long ringlets that are decorated with dark blue ribbons. On her neck and arms she has magical blue marks resembling the stitches of a doll in the same way when she was a normal doll. Her eyes have cross shaped pupils, resembling buttons, with the one on the left being blue and the one on the right being pink.<br><br>
+
+Gwen typically dresses In a white dress with a black rim and blue chest, decorated with golden details.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Personality</summary>
+
+	Gwen is a doll given life by the Hallowed Mist and a fragment of Isolde's soul, representing her kindness, love and joy, granting her self awareness and a independent personality.<br><br>
+
+Having being created as an idealized character by Isolde as a little girl, Gwen has the personality of a idealized princess of fairy tales, highly polite and graceful. She's kind, friendly, and excitable, eager to see the world, curious and in love of everything in it. Having been alive for only a short time, she is terrified of dying.<br><br>
+
+Although generally friendly and genuine in her niceness, Gwen is not unaware of the darkness of the world. She dutifully fights the evils of the Black Mist to protect the world she was born in, and she has nothing but contempt for the Shadow Isles's most malevolent members, such as Thresh and Viego.<br></br>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Abilities</summary>
+
+<blockquote>
+	<h3>Magically Altered Physiology:</h3>
+	Gwen's body is magically altered and extremely unique due to the circumstances of her birth. Though she was initially a doll created by Isolde, she has been fully granted life by her creator thanks to the magic of the mystical Hallowed Mist and is, by all means, considered a human to some extent.
+	
+	<p style="margin-left: 25px;">
+	 <font size="+1"><b>Hallowed Mist Manipulation:</b></font><br>
+Having been granted life and blessed by the hallowed opposite of the accursed Black Mist, Gwen is capable of manipulating this mist for many capabilities. The Hallowed Mist's main function is to protect both herself and others within her cloud of mist, practically rendering them both hidden and immune from outside dangers. Those under the effect of her Hallowed Mist tend to feel a sense of comfort and calmness to them when it envelops them. As the antithesis of the Black Mist, Gwen has shown that she can utilize the Hallowed Mist to banish and ward off any undead affected by the mist, being strong enough to imprison the Ruined King himself.
+
+<p style="margin-left: 50px;">
+	 <font size="+1"><b>Hallowed Mist Constructs:</b></font><br>
+Gwen can manipulate the Hallowed Mist into many different shapes, most commonly in the form of common sewing materials and tools. With these constructs, Gwen can use them to attack enemies, most notably any undead.
+<p style="margin-left: 50px;">
+	 <font size="+1"><b>Enchantment:</b></font><br>
+Gwen can use the Hallowed Mist to enchant and strengthen other objects to be more capable of fighting off the Black Mist. She can use this in the creation of new objects, such as the many outfits she fashioned for the Sentinels of Light which she sewed with threads made from the mist itself, or she can enchant common items such as she did with her signature scissors.
+
+</p>
+
+<p style="margin-left: 25px;">
+ <font size="+1"><b>Scissor Proficiency:</b></font><br>
+Gwen typically uses a giant, enchanted pair of scissors in combat which she has enchanted with the Hallowed Mist. Gwen wields these scissors with ease, capable of quickly cutting up entire groups of enemies with speed. Along with that, Gwen has shown that she's able to manipulate the scissors with her mind, telekinetically moving it and allowing it to cut enemies without needing to touch it.
+</p>
+
+<p style="margin-left: 25px;">
+ <font size="+1"><b>Sewing Mastery:</b></font><br>
+Being a doll created by Isolde, who already had a talent in sewing, Gwen is an supernaturally talented seamstress. Other than the fact that her manipulation of the Hallowed Mist directly reflects her talent as a seamstress, Gwen can create entire, intricate outfits almost instantly when provided enough fabric and materials, just as she did with the Sentinels of Light.
+
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">History</summary>
+
+<blockquote>
+	<h3>Early Life</h3>
+Gwen was originally crafted as a doll by a seamstress named Isolde, embodying her desire for adventure and royalty. Isolde loved her doll very much and would spend hours sewing and playing with her. Eventually, Isolde would be courted by Viego, the king of Camavor, and would no longer have time to play with her cherished doll. At first, Gwen could sense that Viego made her creator happy, but their love would sour and become painful. Isolde would fall ill due to an assassin's blade and eventually pass. Viego took Isolde's corpse to the Blessed Isles in hopes of reviving her, but unleashed ruination instead. Without their king, the nation of Camavor would crumble and Gwen would be forgotten for centuries.<br><br>
+
+	<h3>Contemporary History</h3>
+	Gwen would eventually find herself on the Shadow Isles when Viego was awakened by Gangplank and Thresh. Viego would be defeated by Ahri, Braum, Illaoi, Miss Fortune, Pyke, and Yasuo and imprisoned within an amulet. The Ruined King would somehow escape the amulet and resume his search for his queen. The fragments of Isolde's soul scattered across Runeterra and imbued themselves into various fetters, one of them being Gwen. Gwen would be brought to life by the fragment of Isolde's soul and found herself with an oversized pair of scissors, needles, and thread. She would soon be attacked by a swarm of wraiths and remembered the pain associated with Viego, she quickly dispatched the wraiths and knew that they were tied with him. Fascinated by the wonders of life, Gwen would set out to explore the world and stop the pain caused by Viego and the Black Mist.<br><br>
+
+	<h3>Recent events</h3>
+	Gwen soon found herself at the Sentinels of Light's headquarters where she would meet Lucian, Senna and a Rookie. She aided them in repelling a swarm of wraiths and joined them in stopping Viego's global harrowing. She would travel with the Sentinels across Runeterra, chasing after the other fetters and repelling Viego's attacks. Along the way, the Sentinels would recruit more fighters into their ranks and Gwen would give haircuts and tailor new uniforms for Diana, Graves, Irelia, Olaf, Pyke, Rengar, Riven, and Vayne. When Viego obtained most of the fetters, the Sentinels launched one last assault against him on the Shadow Isles. Gwen attempted to bind him within the Hallowed Mist, but Viego quickly dispatched her with a stroke of his blade. He took her, Senna and the Maiden of the Mist to Camavor to resurrect Isolde. Viego tore the fragment of Isolde's soul within Gwen, killing her and the other fetters, and revived his queen. Isolde was horrified at what Viego had done and rejected him. She prompted Akshan to kill her with his Absolver and revived Gwen, Senna and the Maiden. Gwen then was able to seal him within the Hallowed Mist and the threat of the Ruined King was over. Gwen reckoned with Senna about Isolde being truly gone now, but was ready to live her life to the fullest.<br><br>
+
+After some time,clear the black mist on the Shadow Isles . As she made her way through the Black Mist, she found an opulent mansion in the shadowy woods. As she investigated, Gwen discovered that it was home to the Midnight Revel, a grand ball hosted by friendly spirits, whom invited her in as their guest of honor. She attended the party, protecting it from the Black Mist and dancing the night away.
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">Gallery</summary>
+<div id="gallery">
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/Wgnkman.jpeg" alt="Gwen as a Doll">
+	Gwen during her time as a Doll.
+	</div>
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/yUq6TnP.jpeg" alt="Gwen">
+	Gwen after being brought to life.
+	</div>
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {♥} BY TESSISAMESS</a>
+
+</body>
+</html>
