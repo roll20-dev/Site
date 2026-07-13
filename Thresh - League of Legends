@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Thresh</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/wLVBV5Z.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>OOC</h3>
+		<b>I shall play Thresh how I see fit as a Thresh main.</b> <br>
+		<b>Profile Created (I can't Remember)</b> <br>
+		<b></b> <br>
+		<b></b> <br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>Thresh</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Thresh</div>
+	<img src="https://i.imgur.com/qe6KcvI.jpeg" alt="Main Image">
+
+<details open="open" class="extended">
+<summary class="side-sub">Titles</summary>
+<div class="side-inner">
+
+	<b class="left">Real Name</b>
+	<div class="right">Erlok Grael (Human)</div>
+
+	<b class="left">Alias(es)</b>
+	<div class="right"><ul>
+ <li>The Chain Warden</li>
+ <li>The Torturer</li>
+ <li>Warden of Thresholds</li>
+ <li><s>Brother Grael</s></li>
+</ul></div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Characteristics</summary>
+<div class="side-inner">
+
+	<b class="left">Species</b>
+<div class="right">Wraith<br><s>Human</s></div>
+
+	<b class="left">Weapon(s)</b>
+	<div class="right">Scythe<br>Soul Lanturn</div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Personal Status</summary>
+<div class="side-inner">
+
+	<b class="left">Status</b>
+	<div class="right">Undead</div>
+
+	<b class="left">Place of Origin</b>
+	<div class="right">Blessed Isles</div>
+
+	<b class="left">Current Residence</b>
+	<div class="right">Unknown<br><s>Shadow Isles</s></div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Profesional Status</summary>
+<div class="side-inner">
+
+ <b class="left">Occupation(s)</b>
+	<div class="right">Soul Jailer<br><s>Monk of Dusk</s><br><s>Warden-Prefect of Thresholds</s></div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"The mind is a wondrous thing to tear apart."</i><br>
+	<b>~Thresh</b>
+</div><br>
+
+	Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he sought a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.<br><br>
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	As a human, Thresh was a fair-skinned man with a long, bony face and dark brown hair and eyes. After being unbound, he can still assume a human disguise, but with green eyes.<br></br>
+
+As a wraith, Thresh's head became a twisted approximation of a human skull, floating, fanged, wrapped in green flame, and with three skeletal appendages attached like hair. His clothes were dark blue, extremely tattered, and lined with bones. Most notably, he wore a large overcoat with a flared, oversized collar. He wore black armor on his feet and hands, but his clawed gauntlets glowed a spectral green. He carried a short-handled scythe in his right hand and was known to levitate his lantern with the left hand. The lantern, also seeming to be constructed from bones, glowed and swirled from the souls within. Both implements were attached to chains fashioned from bones. A pair of keys dangled from the front of his belt.<br></br>
+
+After becoming unbound, his appearance changed once again. He now appears as a pale human with glowing green eyes. Dark symbols appear tattooed onto his forehead and cheeks. His hair features three long pony tails in the same fashion as the once-present skeletal appendages on his head. His clothes are an elegant, black and gold regalia. The chains he carries are golden metal rather than skeletal. His lantern appears to be a large, teal crystal encased in a golden frame. Still, he glows with an ominous green light.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Personality</summary>
+
+	As a human, Grael dedicated his work to becoming recognized throughout Helia, but was narcissistic and spiteful, seeing himself as being worthy of recognition. He believed himself to be perfect and felt bitter towards anyone who stopped his goals, to the point where he had no problem in causing the deaths of his fellow monks to develop his own progress. Observers described Grael as being unsettling and having darkness within his mind.<br></br>
+
+After becoming Thresh, he embraced his true cruelty and hatred without anyone to stop him. He is a psychopathic sadist who delights in making others suffer even after death, by tearing out his victims' souls and leaving them to suffer within his lantern, even mocking his victims' loved ones. He enjoys antagonizing Lucian the most, after imprisoning the soul of his wife Senna and taunting Lucian with Senna's soul on ransom. When Senna escaped, Thresh decided to let them win so he could torment them in the future. Thresh is also known for manipulating others for his own gain, such as influencing Viego after reviving him so the deaths he caused would empower Thresh to become unbound, freeing him from his perpetual imprisonment in the Shadow Isles and granting him the power to move around Runeterra. Adopting new human form, Thresh travelled to Noxus where he met Bort. A luckless waiter in a Noxian Inn who had been cursed with a crustacean arm after trying to steal from a mage and consequently was abused and ridiculed by fellow staff and customers alike for his clumsiness and unfortunate condition. Sensing potential in Bort, Thresh murdered all those who had previously mocked him and offered to free Bort from his deformity. Gladly accepting the offer, Bort became Thresh's Phantom carriage driver. Now in command of those who had tormented him, Bort whips and taunts the trapped souls who pull Thresh's carriage as Thresh himself travels deeper into Noxus.<br></br>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Powers & Abilities</summary>
+
+<blockquote>
+	<h3>Wraith:</h3>
+	Thresh is one of the Shadow Isles's wraiths, created when the Ruination came to be. The Black Mist consumes ones original personality, leaving only a specter consumed by negative emotions and obsessions. In Thresh's, interestingly enough, he seems to have changed very little.
+	
+	<p style="margin-left: 25px;">
+	 <font size="+1"><b>Amortality:</b></font><br>
+Being already dead, Thresh can't die again. He can only be banished and lose his material form for a while.
+</p>
+
+<p style="margin-left: 25px;">
+ <font size="+1"><b>Spiritual Constructs:</b></font><br>
+Wraiths can create solid constructs from spectral energy, such as bodies and physical objects. These constructs mainly base themselves around how they looked in life.
+</p>
+
+<p style="margin-left: 25px;">
+ <font size="+1"><b>Transitory State:</b></font><br>
+Being ethereal beings, Wraiths can shift from the physical world and spiritual one at will. This means they can become intangible and invisible, and dissapear from one place to another.
+</p><br><br>
+
+	<h3>Soul Snatching</h3>
+	Thresh' most terrible power, and what makes him so dangerous, is his ability to entrap the souls of others by hooking them with his scythe, and then trapping their souls inside his lantern, were they suffer untold horrors until they become his enslaved thralls.<br><br>
+
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">History</summary>
+
+<blockquote>
+	<h3>Early Life</h3>
+The wraith Thresh was born in the Blessed Isles as Erlok Grael, a monk of Helia. He served in the order for many years, expecting to be recognized among Helia's masters, but due to his humble background he was delegated to work as a warden to safeguard Helia's magical artifacts which he took as an insult. Grael felt bitter towards his new position as he believed himself more gifted than his noble-born peers who got more prestigious roles, and that his lowly position would stop him from being recognized.After years of working in the vault, Grael grew bitter and cruel. Growing frustrated over his fellow wardens getting killed by the artifacts, he took interest in a nameless tome claimed to whisper one's darkest thoughts. Grael kept the tome in his possession, but his superior, Head Warden Rastofir, stopped him and threatened to demote him. Angered, he believed that Rastofir was trying to steal his research for his own benefit, so he arranged Rastofir to be killed by a miscategorized artifact so he could manipulate the order into a pragmatic direction.<br><br>
+
+	<h3>The Ruination</h3>
+	One day, a fleet of ships from Camavor Crest invaded the Blessed Isles, led by their king Viego whom wanted to use the Waters of Life to resurrect his wife Isolde. When the monks refused, Hecarim and his knights took the opportunity to slaughter the monks and all of the natives. Grael delighted in the carnage and suffering that ensued, and took it upon himself to lead Viego to the Waters of Life. Isolde's resurrection failed and caused a blast of magic that corrupted the Blessed Isles' protective mist into the Black Mist, turning all of the inhabitants into wraiths. Grael embraced his transformation and took on the moniker Thresh, eager to act out his desires for cruelty without punishment or the limits of mortality. As decades passed, Thresh's spectral form morphed into a reflection of his darkest traits. He roamed the Shadow Isles killing people and imprisoning their souls within his lantern, becoming known in the folklore of Runeterra as a bogeyman figure.<br><br>
+
+	<h3>Capture of Senna</h3>
+	Many years later, Thresh encountered Lucian and Senna, a married couple of Sentinels of Light, in a forbidden Helian vault in search of a cure for the latter's curse. Overzealous in his goal to save Senna, Lucian refused to turn back, but his decision cost him Senna's life as she sacrificed herself to save him from an oncoming attack from Thresh. The wraith trapped her soul in his lantern, with Lucian spending years battling his arch-enemy, all while Thresh taunted him by holding Senna's soul ransom.
+
+Eventually, Lucian was able to set Senna's soul free by blasting Thresh's lantern open. While he expected the souls to pass on, Senna re-emerged with her newfound ability to control the Black Mist. Though Thresh was defeated, he decided to let them have their victory as he would toy with them in the future.
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">Gallery</summary>
+<div id="gallery">
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/Hm8p0yE.jpeg" alt="Human Thresh">
+	Thresh during his life as Erlok Grael
+	</div>
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/wNBodnt.jpeg" alt="Unbound Thresh">
+	Thresh Unbound in his Human Guise
+	</div>
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/nj2b143.jpeg" alt="Unbound Thresh Spectral">
+	Thresh Unbound in his Spectral Form
+	</div>
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {♥} BY TESSISAMESS</a>
+
+</body>
+</html>
