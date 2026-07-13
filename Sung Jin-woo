@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Name Here</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/tmtpRWX.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>Player Info</h3>
+		<b>Name</b> Name<br>
+		<b>Age</b> 00<br>
+		<b>Timezone</b> TZ<br>
+		<b>PB</b> PB Name<br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>Sung Jin-woo</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Sung Jin-woo</div>
+	<img src="https://i.imgur.com/a5zIiBA.jpeg" alt="Main Image">
+
+<div class="side-sub">General Information</div>
+<div class="side-inner">
+
+	<b class="left">Real Name</b>
+	<div class="right">Sung Jin-woo</div>
+
+	<b class="left">Current Alias</b>
+	<div class="right">The Shadow Monarch</div>
+
+	<b class="left">Marital Status</b>
+	<div class="right">Married</div>
+
+	<b class="left">Status</b>
+	<div class="right">Alive <i>(Resurrected)</i></div>
+
+</div>
+
+<summary class="side-sub">Extended Information</summary>
+<div class="side-inner">
+
+	<b class="left">Epithets</b>
+	<div class="right">
+	The Weakest Hunter of All Mankind<br>
+	Korea's 10th S-Rank Hunter<br>
+	Shadow Monarch<br>
+	6th National Level Hunter<br>
+	The Ghost<br>
+	2nd Rate Asian Hunter<br>
+	</div>
+
+	<b class="left">Affiliations</b>
+	<div class="right">
+	Ahjin Guild<br>
+ Ashborn<br>
+	Rulers<br>
+	Monarchs<br>
+	System<br>
+	</div>
+
+	<b class="left">Relatives</b>
+	<div class="right">
+	Sung Il-Hwan<i> (father)</i><br>
+	Park Kyung-Hye<i> (Mother)</i><br>
+	Sung Jinah<i> (Sister)</i><br>
+	Cha Hae-In<i> (Wife)</i><br>
+	Yoo Jinho<i> (Brother-In-Law)</i><br>
+	Sung Suho<i> (Son)</i><br>
+	
+	</div>
+
+	<b class="left">Occupations</b>
+	<div class="right">
+	Hunter<br>
+	Guild Master<br>
+	Shadow Monarch<br>
+	</div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"I'm going to protect my family, even if it means turning all the hunters in the world against me."</i><br>
+	—Sung Jinwoo to Liu Zhigang
+</div><br>
+
+	Sung Jinwoo (성진우) is the main protagonist of Solo Leveling. He is the strongest hunter in the world and the second Shadow Monarch, having inherited the position from his predecessor Ashborn.<br><br>
+
+Originally an infamously weak E-Rank Hunter, Jinwoo got the chance of a lifetime when he was selected as the Player of the System, giving him the unique ability to grow in strength without restraint. As a result, by taking advantage of the opportunities offered to him by the System, Jinwoo eventually rose to power as humanity's greatest hunter.<br><br>
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	Jinwoo is a tall, handsome, and muscular young man with gray eyes, sharp facial features, and black hair with bangs that dangle all the way down to his eyes. When using his powers or feeling intense emotions, his eyes glow purple and his facial features become more pronounced. He favors dark clothing and often seen in sleek and stylish outfits ranging from tailored suits to long hooded coats. After defeating the Monarchs in the revised timeline created by the Cup of Reincarnation, he also starts wearing a black glove on his left hand to cover up the burn scars that he received there during his rematch with Antares.<br><br>
+
+Before he was chosen as the Player of the System, Jinwoo had a very different appearance. He was shorter and had a noticeably thinner physique, with long, bushy hair that covered up his ears. His face was very boyish, which made him look even younger than his sister Jinah (who was still a teenager at the time), and he tended to dress in casual attire, favoring a simple blue hoodie and jeans. It was also common to see him wearing bandages on his arms and legs due to the frequent injuries that he received on raids.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Personality</summary>
+
+	Jinwoo is a humble and benevolent individual who cares deeply for his family and has an ardent desire to become stronger. As a result, he shares a close relationship with his sister and his mother, and rarely wastes an opportunity to refine his skills and gain more power. His deep bond with his family also makes him absolutely merciless towards anyone who dares to hurt them, as displayed when he massacred Groctar and his minions for attempting to kill Jinah, and murdered Hwang Dongsoo for torturing Jinho.<br><br>
+
+It should be noted that despite being the strongest hunter in the world, Jinwoo is not particularly arrogant and is both polite and easygoing in-person. He is also mostly indifferent to materialistic desires and can be very selfless, as displayed when he teleported to Jeju Island without a second thought to save the other Korean S-Rank Hunters from certain death. In battle, however, he is ruthless, as he tends to slaughter his enemies indiscriminately, and even somewhat disdainful, as displayed when he taunted the Ant King by calling him a "mere insect" and mocked Kandiaru for the flaws he made in his design of the System.<br><br>
+
+In contrast, back when he was weak, Jinwoo was very timid and insecure due to his incompetence as a hunter and his troubled financial situation. Although he cared deeply for his family and spent years risking his life going on raids for their sake, he was secretly ashamed of his circumstances, as displayed when he lied to Joohee about why he had chosen hunting as his career path. However, his traumatizing experience in the Double Dungeon would give him everything he needed to become stronger, and being betrayed and left to die by his fellow hunters while trapped inside the dungeon would teach him the harsh lesson that his kindness could be exploited by others for their own benefit. As a result, from that point on, Jinwoo vowed to never again recklessly endanger his own life under the guise of the greater good and adopted a more self-preserving stance as a hunter, primarily focusing on amassing strength and eventually growing into the fearsome warrior that he is today.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Abilities</summary>
+
+	As the second Shadow Monarch, Jinwoo is the strongest hunter in the world and arguably one of the strongest beings in existence.
+
+<blockquote>
+	<h3>Immeasurable Strength</h3>
+	Jinwoo possesses a tremendous amount of physical strength. Even before obtaining his true power, he was strong enough to critically damage the Statue of God with just a few punches to its face and beat Thomas Andre, one of the five National Level Hunters, to the brink of death with just his bare hands. Upon being revived by Ashborn and receiving the full extent of the Shadow Monarch's powers, Jinwoo's strength was increased to the point that he was able to effortlessly repel Sillad's attacks with one hand, kill Rakan in just four blows, and hold his own against Antares, the strongest and oldest of the nine Monarchs, in battle. After spending 27 years waging war against the Monarchs in the revised timeline, Jinwoo has appeared to have grown even more powerful than before, as shown by how he was able to kill Antares completely by himself instead of having to rely on the Rulers for support.<br><br>
+
+	<h3>Immeasurable Speed</h3>
+	Jinwoo is unfathomably fast and can move at speeds so great that most opponents are unable to track his movements. As a testament to this, he was agile enough to keep up with Sillad's attacks during their second confrontation and upon obtaining his true power, was able to strike at Rakan with such speed that the latter didn't even realize that he'd been attacked until after Jinwoo cut off one of his legs.<br><br>
+
+	<h3>Immense Durability</h3>
+	Jinwoo is incredibly resilient to physical damage. He was virtually unharmed when the Ant King punched him in the face, only sustaining a small cut on his lip, and was physically unscathed after Baran smashed him into the ground with great force.<br><br>
+	
+	<h3>Combat Mastery</h3>
+	Jinwoo is a master of melee-based combat and his fighting skills are so refined that he can hold his own against enemies with far more combat experience than he does with little trouble. This was first demonstrated during his battle with Kandiaru in the Double Dungeon; despite the fact that his opponent had been alive for hundreds of years and fought against numerous opponents in his time, Jinwoo was still able to match him in battle and eventually overpower him altogether. Later on, Jinwoo was also able to keep up and defend from Sillad's attacks, despite the fact that the latter had his Spiritual Body Manifestation activated and eons of fighting experience under his belt, and probably would've been able to land a killing blow had Rakan not ambushed him from behind.<br><br>
+	
+	<h3>Agelessness</h3>
+	As an effect of having inherited Ashborn's powers, Jinwoo no longer ages naturally and has to biologically alter his body to look the age he wants. As a result, by the end of the series, he only appears to be in his thirties when he has actually been alive for over 80 years.<br><br>
+	
+	<h3>Accelerated Development</h3>
+	Jinwoo's most astonishing ability is his explosive growth rate, a power unlike any other in the world. Not only does he grow stronger with every battle, but he also receives a massive boost in strength with each victory that he achieves. As a result of this, it only took him a few months of intensive training with the System to become one of the strongest hunters in Asia.<br><br>
+	
+	
+ <h3>Umbrakinesis</h3>
+ Jinwoo possesses absolute control over shadows and darkness, and can reshape them into any form he desires, as displayed when he created a layer of black armor made of shadows onto his body.<br><br>
+	
+	<h3>Memory Manipulation</h3>
+	Jinwoo can manipulate the memories of other humans to a certain extent by making physical contact with them. So far, he has been shown to be able to erase certain memories from their minds, grant them their memories of the original timeline, and allow them to see into his own memories, as he did with Woo Jinchul to inform him of the existence of the Rulers and the Monarchs.<br><br>
+	
+	<h3>Hypnosis</h3>
+	Jinwoo can hypnotize people into following the orders that he gives them by snapping his fingers, as displayed when he hypnotized Kim Chul into letting him go and becoming a better person when they encountered each other in the new timeline. However, since he has only ever been shown using this ability once, the limitations to it remain unknown.<br><br>
+	
+	<h3>Unlimited Inventory</h3>
+	Jinwoo can store an unlimited number of items in his shadow and extract any number of those items for his own use at any point in time.<br><br>
+	
+	<h3>Monster Language Fluency</h3>
+	Jinwoo can speak and understand monster tongue, which he uses to communicate with his shadow soldiers and the enemy monsters that he encounters in battle.<br><br>
+	
+	<h3>Indomitable Will</h3>
+	Due to his loving relationship with his family and his intense drive to become strong for their sake, Jinwoo has an extraordinary level of willpower. He has exemplified this trait even before he became the Player of the System, as shown by how he spent four years going on dungeon raids to financially support both his sister and his mother even though he nearly died on almost every raid he ever went on. Jinwoo's resolve to continuously put his life as risk for the welfare of his family was also ultimately the reason why Ashborn selected him as his successor, as he knew that Jinwoo would never quit fighting for his family no matter how high the odds were stacked against him.
+	
+</blockquote>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Skills</summary>
+
+	<h2>Passive Skills</h2>
+
+<blockquote>
+	<h3>Will To Recover</h3>
+	Jinwoo is able to regenerate from any kind of damage done to his body with the exception of fatal wounds, such as being stabbed through the heart. This also includes lost limbs, as shown by how Jinwoo was able to completely regenerate his right leg after he lost it during the first Double Dungeon Incident.<br><br>
+
+	<h3>Longevity</h3>
+	Jinwoo is immune to all diseases, poisons, and any abilities that can be harmful to his status. His regeneration speed is also far faster than a normal human's and increases exponentially when he sleeps.e<br><br>
+
+	<h3>Detoxification</h3>
+	Jinwoo's body is able to automatically cleanse itself of any poisons once they are detected in his bloodstream. Unfortunately, alcohol is considered to be a poison and as a result, Jinwoo can't get drunk.<br><br>
+	
+	<h3>Tenacity</h3>
+	If Jinwoo's health drops below 30% in battle, any further damage that he receives will be reduced by 50% in order to keep him alive.<br><br>
+	
+	<h3>Advanced Dagger Techniques</h3>
+	If Jinwoo uses his daggers in battle, any damage he inflicts on his opponent will be increased by 33%.
+	
+</blockquote>
+
+	<h2>Active Skills</h2>
+
+<blockquote>
+	<h3>Stealth</h3>
+	Jinwoo is able to camouflage with his surroundings and hide all traces of his presence, essentially turning himself both physically and magically invisible.<br><br>
+
+	<h3>Bloodlust</h3>
+	Jinwoo is able to magically intimidate an enemy combatant into submission, inducing intense fear into those who are targeted by this technique and decreasing their stats by 50%. It can also be used on multiple opponents at once.<br><br>
+
+	<h3>Quicksilver</h3>
+	Jinwoo is able to increase his speed by 30% for a short period of time.<br><br>
+	
+	<h3>Mutilation</h3>
+	Jinwoo aims for a target's vital points before slashing away at them with his daggers, inflicting critical damage.<br><br>
+	
+	<h3>Dagger Rush</h3>
+	Jinwoo barrages a target with his daggers from all directions.<br><br>
+	
+	<h3>Ruler's Authority</h3>
+	Jinwoo is able to move and control objects via telekinesis. He can also use this skill on the air around him, enabling him to move and dodge attacks while airborne.<br><br>
+	
+	<h3>Dragon's Fear</h3>
+	Jinwoo releases a mana-infused shout from his soul, driving anyone weaker than him into a state of intense despair and panic.
+	
+</blockquote>
+
+	<h2>Job Skills</h2>
+
+<blockquote>
+	<h3>Shadow Extraction</h3>
+	Jinwoo is able to extract shadows from the corpses of his enemies and add them into his army.<br><br>
+
+	<h3>Shadow Preservation</h3>
+	Jinwoo is able to preserve his shadows in storage and monitor them by perceiving their senses.<br><br>
+
+	<h3>Shadow Exchange</h3>
+	Jinwoo is able to use shadows as portals to travel vast distances in an instant.<br><br>
+	
+	<h3>Monarch's Domain</h3>
+	Jinwoo is able to increase the strength of all of his active shadows by 50% in battle.
+	
+</blockquote>
+
+<br><a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {&hearts;} BY TESSISAMESS</a>
+
+</details>
+
+</article>
+
+</body>
+</html>
