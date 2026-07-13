@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Corradin Corvandro</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/wLVBV5Z.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Saint Celestine</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/O1m1FAd.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>Player Info</h3>
+		<b>Name</b> Name<br>
+		<b>Age</b> 00<br>
+		<b>Timezone</b> TZ<br>
+		<b>PB</b> PB Name<br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>The Imperial Regent</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Roboute Guilliman</div>
+	<img src="https://i.imgur.com/ooORHRm.jpeg" alt="Main Image">
+
+<div class="side-sub">General Information</div>
+<div class="side-inner">
+
+	<b class="left">Real Name</b>
+	<div class="right">Roboute Guilliman</div>
+
+	<b class="left">Alias(s)</b>
+	<div class="right">The Avenging Son<br>The Victorious<br>The Master of Ultramar<br>The Blade of Unity</div>
+
+	<b class="left">Status</b>
+	<div class="right">Alive</div>
+
+</div>
+
+<div class="side-sub">Characteristics</div>
+<div class="side-inner">
+
+	<b class="left">Gender</b>
+	<div class="right">Male</div>
+
+	<b class="left">Age</b>
+	<div class="right">Unknown</div>
+
+	<b class="left">Height</b>
+	<div class="right">11'7"</div>
+
+	<b class="left">Weight</b>
+	<div class="right">???</div>
+
+	<b class="left">Eyes</b>
+	<div class="right">Blue</div>
+
+	<b class="left">Hair</b>
+	<div class="right">Blonde</div>
+
+</div>
+
+<summary class="side-sub">Extended Information</summary>
+<div class="side-inner">
+
+
+	<b class="left">Affiliations</b>
+	<div class="right">
+	Imperium of Man<br>
+	Ultramarines<br>
+	</div>
+
+	<b class="left">Occupations</b>
+	<div class="right">
+	Imperial Regent<br>Primarch of the Ultramarines<br>
+	</div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"Why do I still live? What more do you want from me? I gave everything I had to you, to them. Look what they've made of our dream. This bloated, rotting carcass of an empire is driven not by reason and hope but by fear, hate and ignorance. Better that we had all burned in the fires of Horus' ambition than live to see this."
+</div><br>
+	<b>-Roboute Guilliman</b>
+</div><br><br>
+
+<details open="open"><summary class="section-head">Wargear</summary>
+
+<blockquote>
+	<h3>Armour of Fate</h3>
+	Crafted by the armourers of the Adeptus Mechanicus, its inner workings enhanced with advanced life-sustaining technologies, this glorious suit of highly advanced and unique Artificer Armour fits Guilliman perfectly, and protects him from even the most dolorous of blows.<br><br>
+
+	<h3>The Emperor's Sword</h3>
+	This famed sword was wielded by the Emperor Himself during the Great Crusade and was passed on to Guilliman after he assumed the mantle of lord commander of the Imperium and Imperial Regent. Touched by the Emperor's own psychic might, this finely wrought, master-crafted blade is lit from hilt to tip with leaping flames. When it is swung, the burning blade draws pyrotechnic arcs through the air, able to slice through the stoutest of armour with ease.<br><br>
+
+	<h3>Hand of Dominion</h3>
+	A more advanced version of the mighty powered gauntlet worn by Guilliman during the Horus Heresy, this godly Power Fist not only allows the primarch to crush the life from his foes like its original incarnation, but to annihilate them in storms of armour-piercing gunfire with its built-in bolter.<br><br>
+	
+	<h3>Iron Halo</h3>
+	The Iron Halo is a halo-shaped ring that is positioned above the head of the wielder, usually mounted on the backpack of Space Marine power armour but sometimes mounted in the gorget. The Iron Halo is a prestigious honour that is granted only to the most exceptional of the Astartes within a Space Marine Chapter as a reward for uncommon initiative and valour. It is most often worn by the Chapter's captains and Chapter Master, though Veteran Astartes and sergeants can also earn the right to add it to their armour in certain circumstances. The Iron Halo appears to share the same basic technological mechanisms as the Space Marine Chaplain's Rosarius, as they both produce a protective force field effect using gravitic and now poorly-understood Conversion Field technology. Guilliman wears a specially-crafted Iron Halo whose protective field has been resized for his greater height and mass than a normal Astartes.<br>
+</blockquote>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Summary</summary>
+
+	
+
+</details><br>
+
+<details><summary class="section-head">History</summary>
+
+<blockquote>
+	<h3></h3>
+	<br><br>
+
+	<h3></h3>
+	<br><br>
+	
+	<h3></h3>
+	<br><br>
+
+ <h3></h3>
+ <br><br>
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">Gallery</summary>
+<div id="gallery">
+
+	<div class="gal-itm">
+	<img src="GALLERYIMG" alt="Gallery Image 1">
+	Img info
+	</div>
+
+	<div class="gal-itm">
+	<img src="GALLERYIMG" alt="Gallery Image 2">
+	Img info
+	</div>
+
+	<div class="gal-itm">
+	<img src="GALLERYIMG" alt="Gallery Image 3">
+	Img info
+	</div>
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {&hearts;} BY TESSISAMESS</a>
