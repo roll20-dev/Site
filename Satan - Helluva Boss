@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Name Here</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://static.vecteezy.com/system/resources/previews/031/322/618/large_2x/phoenix-bird-with-outstretched-wings-rising-burning-in-flames-epic-phoenix-bird-fire-rebirth-power-concept-by-ai-generated-free-photo.jpg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>Player Info</h3>
+		<b>Name</b> Name<br>
+		<b>Age</b> 00<br>
+		<b>Timezone</b> TZ<br>
+		<b>PB</b> PB Name<br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>Satan</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Satan</div>
+	<img src="https://i.imgur.com/lDWW3Ek.png" alt="Satan">
+
+<div class="side-sub">General Information</div>
+<div class="side-inner">
+
+	<b class="left">Name</b>
+	<div class="right">Satan</div>
+
+	<b class="left">Position</b>
+	<div class="right">Sin of Wrath</div>
+
+</div>
+
+<div class="side-sub">Characteristics</div>
+<div class="side-inner">
+
+	<b class="left">Gender</b>
+	<div class="right">Male</div>
+
+	<b class="left">Age</b>
+	<div class="right">10,000+</div>
+
+	<b class="left">Eyes</b>
+	<div class="right">Yellow</div>
+
+</div>
+
+<div class="side-sub">Extended Information</div>
+<div class="side-inner">
+
+	<b class="left">Affiliations</b>
+	<div class="right">
+	Hell<br>
+	Wrath Ring<br>
+	Seven Deadly Sins<br>
+
+	</div>
+
+	<b class="left">Occupations</b>
+	<div class="right">
+	Second in command of Hell<br>
+	Commander of Hell's military<br>
+	Ruler of the Wrath Ring<br>
+	Stand-in Ruler of Hell's affairs<br>
+	</div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"You dare to try to tell ME how to PUNISH!?"</i><br>
+	—Satan, his demon form
+</div><br>
+
+	 Satan is the stand-in leader of the Sins and ruler of affairs in Hell due to Lucifer Morningstar's absence, and is one of the Seven Deadly Sins, embodying the sin of Wrath.<br><br>
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	Satan is depicted as a titanic, muscular, red dragon-like demon with four eyes and horns. He wears a black and red leather vest, and black pants adorned with an orange skull belt. Orange lava stripes can be seen on his wings, neck, and his left arm, while the other one is red. His two outer horns are colored with black and red stripes, while his two inner horns are black and white, and they are positioned in a way that resembles a pitchfork. He also has a large tail colored in red and orange with spikes coming out his back.<br><br>
+	
+	<h3>Full Demon</h3>
+	
+	When entering his demon form, he is shown to grow larger in size, and his pupils dilate.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Personality</summary>
+
+	Matching the sin he represents, Satan is shown to be a very wrathful demon with anger issues and fits of rage which left him out of control. His uncontrollable rage is too much to the point that he needs a demon therapist to act like a "shoulder angel" to remind him to keep calm. Despite this, he can also be reasoned and well-sophisticated most of the time.<br><br>
+	
+	He is shown as having little to no care towards the demons that are below him in the hierarchy of Hell, especially Imps despite claiming to be their creator. To him, Imps (and most likely Hellhounds and other mortal hellborns) are nothing but pawns that serve only to obey orders and do their jobs. Not even royal demons escape his indifference, despite having them in a much greater regard, as he didn't hesitate to strip Stolas of his power and title and give it to Andrealphus (until Octavia is of age to inherit it). Not even his fellow Sins escape this as he quickly dismissed Asmodeus and Beelzebub's request to give Blitz a fair trial, using the opinion of the rest of the court to justify it.<br><br>
+	
+	Satan is also shown as being immensely vain and arrogant and revel on his position as leader of the Deadly Sins in Lucifer's absence. Despite the fact Hell was created after Lucifer bestowed free will to humanity and was casted there by Heaven to rule it, Satan self-proclaims himself as being the original ruler. Due to the absence of Lucifer and his family in the affairs of Hell, it would appear that this claim of his has become a reality to the rest of hellborn demonkind, except for his fellow Sins (or at least, Asmodeus and Beelzebub), who know the truth about who is really in charge.
+
+</details><br>
+
+<details open="open"><summary class="section-head">Powers & Abilities</summary>
+
+	<li><b>Longevity</b> - As one of the Deadly Sins, Satan shares the longevity of his fellow sins.</li>
+	<li><b>Demonic transformation</b> - While Satan's "normal" size alone towers over most demons, even his fellow Sins, Satan, when enraged, can transform into a more dragon-like appearance, making himself even larger to an unspecified degree.</li>
+	<li><b>Flight</b> - Satan is able to fly with his giant dragon wings.</li>
+	<li><b>Environment manipulation</b> - Satan can warp the colors, ambience, and illumination of every room and palace where he is, as shown when Satan interrupts Stolas' musical number and the courtroom turns into a orange-yellow color.</li>
+	<li><b>Pyrokinesis</b> - As shown in his song, Satan is able to create images out of flame, like a image of an Angel. The smoke that emits from his nostrils when he is angry may suggest he can also breathe fire.</li>
+	<li><b>Power deactivation</b> - Satan, with the use of an enchanted set of rings bearing the sigils of the Seven Deadly Sins, can strip high-ranking demons like Goetic aristocrats of their powers and status. He performed this on Stolas and set it for a hundred years for providing the grimoire to Blitzo, and allegedly framing him.</li>
+	<li><b>Enhanced strength</b> - Befitting his size, Satan seemingly possesses incredible physical strength, such as being able to crack the floor when he steps off his throne.</li><br>
+
+<h3>Skillset</h3>
+<li><b>Leadership</b> - As the standing leader of the Seven Deadly Sins and the rest of Hell due to Lucifer's constant absence, Satan has a strong sense of strictness and command within its government, with the other Sins deferring to him as their adjudicator without questioning his ability. He is also incredibly intimidating compared to the other Sins, to the point even high-ranking Hellborn species are terrified of displeasing him by stepping out of line.</li>
+<li><b>Musical Talent</b> - Satan is shown to be a decent singer, as seen in his song.</li>
+</details><br>
+
+<details><summary class="section-head">Friends & Alliances</summary>
+<ul>
+	<li><a href="">Friendname</a> Info here
+	<li><a href="">Friendname</a> Info here
+	<li><a href="">Friendname</a> Info here
+</ul>
+</details><br>
+
+<details><summary class="section-head">Gallery</summary>
+<div id="gallery">
+
+	<div class="gal-itm">
+	<img src="GALLERYIMG" alt="Gallery Image 1">
+	Img info
+	</div>
+
+	<div class="gal-itm">
+	<img src="GALLERYIMG" alt="Gallery Image 2">
+	Img info
+	</div>
+
+	<div class="gal-itm">
+	<img src="GALLERYIMG" alt="Gallery Image 3">
+	Img info
+	</div>
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {&hearts;} BY TESSISAMESS</a>
+
+</body>
+</html>
