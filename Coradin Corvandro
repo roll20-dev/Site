@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Corradin Corvandro</title>
+	<link rel="shortcut icon" href="ICOURL" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+
+/*-- WIKIA BIO - TESSISAMESS - 2017 --*/
+/*-- Find more fun stuff at:tessisamess.insanejournal.com --*/
+
+/* GENERAL */
+
+::selection{background:#ddd;}
+::-moz-selection{background:#ddd;}
+
+body{margin:0;padding:0;background:#ddd url(https://i.imgur.com/wLVBV5Z.jpeg)center fixed repeat;font-family:Open Sans,helvetica,arial,sans-serif;font-size:14px;color:#111;}
+
+a{font-weight:bold;color:#000;text-decoration:none;}
+a:hover{opacity:0.5;}
+
+h1,h2,h3{color:#000;}
+ul{list-style:square;}
+
+details summary{cursor:pointer;}
+details summary:focus{outline:none;}
+
+
+/* WHOLE CONTAINER */
+
+#container{width:70%;max-width:1000px;min-width:600px;margin:50px auto 0 auto;padding:35px 35px 25px 35px;background:#fff;border:1px solid rgba(0,0,0.1);line-height:160%;position:relative;}
+#container h1{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 10px 0;margin:0 0 20px 0;font-size:34px;}
+#container h3{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;}
+
+
+/* OOC INFO POPUP */
+
+#info{position:absolute;top:20px;right:20px;display:flex;align-items:flex-start;}
+#info:hover #info-inner{display:block;}
+#info img{width:32px;height:32px;}
+#info-inner{display:none;width:120px;padding:10px;font-size:11px;background:#fff;border:1px solid rgba(0,0,0,0.1);line-height:140%;margin-right:10px;margin-top:-30px;border-radius:4px;box-shadow:1px 1px 4px 0 rgba(0,0,0,0.3);}
+#info-inner h3{padding:0;margin:0 0 2px 0;font-size:13px;}
+
+
+/* SIDEBAR */
+
+#sidebar{float:right;width:300px;background:#eee;margin-left:20px;}
+#sidebar img{width:100%;}
+#side-title{background:#000;text-align:center;color:#fff;font-weight:bold;font-size:20px;padding:3px 0;}
+.side-sub{background:#000;text-align:center;color:#fff;font-weight:bold;}
+.side-inner{padding:10px;border:1px solid rgba(0,0,0,0.1);display:flex;flex-wrap:wrap;}
+.left{display:block;width:45%;}
+.right{width:55%;}
+.extended .right{margin-bottom:10px;}
+.extended .right:last-of-type{margin-bottom:0;}
+
+
+/* MAIN CONTENT */
+
+#quote{margin:0 6%;}
+.section-head{border-bottom:1px solid rgba(0,0,0,0.1);padding:0 0 2px 0;margin:0 0 10px 0;font-size:20px;font-weight:bold;cursor:pointer;}
+
+.section-head::-webkit-details-marker{display:none;}
+.section-head:after{content:'[+]';float:left;padding-right:10px;font-weight:normal;font-size:13px;margin-top:-2px;}
+details[open] .section-head:after{content:'[–]';}
+
+
+/* CONTENT GALLERY */
+
+#gallery{-webkit-column-count:3;-webkit-column-gap:15px;-moz-column-count:3;-moz-column-gap:15px;column-count:3;column-gap:15px;}
+.gal-itm{width:95%!important;margin-bottom:5px;padding:2%;border:1px solid rgba(0,0,0,0.1);-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid;display:inline-block;}
+#gallery img{width:100%;}
+
+
+/* CREDIT - LEAVE THIS */
+
+#cred{display:block;margin:10px auto 50px auto;font-size:12px;letter-spacing:2px;text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<article id="container">
+
+	<div id="info">
+	<div id="info-inner">
+		<h3>OOC</h3>
+		<b>OC Chaos Space Marine</b> <br>
+		<b>Profile Created (I can't Remember)</b> <br>
+		<b></b> <br>
+		<b></b> <br>
+	</div>
+	<img src="https://i.imgur.com/16AkA0K.png">
+	</div>
+
+	<h1>The Ashen Lord</h1>
+
+<aside id="sidebar">
+
+	<div id="side-title">Corradin Corvandro</div>
+	<img src="https://i.imgur.com/nUXkJuv.png" alt="Main Image">
+
+<details open="open" class="extended">
+<summary class="side-sub">Titles</summary>
+<div class="side-inner">
+
+	<b class="left">Real Name</b>
+	<div class="right">Corradin Corvandro</div>
+
+	<b class="left">Alias(es)</b>
+	<div class="right">The Ashen Lord</div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Characteristics (Pre Heresy)</summary>
+<div class="side-inner">
+
+	<b class="left">Species</b>
+<div class="right">Genetically-Modified Transhuman<br></div>
+
+<b class="left">Occupation(s)</b>
+	<div class="right">Captain<br></div>
+
+ <b class="left">Age</b>
+	<div class="right">374<br></div>
+
+ <b class="left">Height</b>
+	<div class="right">8'0" (Out of Armor)<br>8'6" (In Armor)<br></div>
+
+ <b class="left">Affiliation</b>
+	<div class="right">Luna Wolves<br>(Sons of Horus)<p style="margin-left: 25px;">42nd Company</div>
+
+	<b class="left">Weapon(s)</b>
+	<div class="right">Chain Axe<br>Bolter<br></div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Characteristics (Post Heresy)</summary>
+<div class="side-inner">
+
+	<b class="left">Species</b>
+<div class="right">Chaos Tainted Genetically-Modified Transhuman<br></div>
+
+<b class="left">Occupation(s)</b>
+	<div class="right">Chaos Lord<br></div>
+
+ <b class="left">Age</b>
+	<div class="right">Unknown<br></div>
+
+ <b class="left">Height</b>
+	<div class="right">9'11" (Out of Armor)<br>10'6" (In Armor)<br></div>
+	
+ <b class="left">Affiliation</b>
+	<div class="right">The Black Legion<br><p style="margin-left: 25px;">The Ashen Horde</div>
+	
+	<b class="left">Weapon(s)</b>
+	<div class="right">Heavily Modified Chain Axe<br>Heavily Modified Bolter<br></div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Personal Status</summary>
+<div class="side-inner">
+
+	<b class="left">Status</b>
+	<div class="right">Alive<br>In Service of Chaos Undivided<br></div>
+
+	<b class="left">Place of Origin</b>
+	<div class="right">Cthonia</div>
+
+	<b class="left">Current Residence</b>
+	<div class="right">Unknown<br></div>
+
+</div></details>
+
+<details open="open" class="extended">
+<summary class="side-sub">Profesional Status</summary>
+<div class="side-inner">
+
+ <b class="left">Occupation(s)</b>
+	<div class="right">Chaos Lord of the Ashen Horde<br><s>Captain of the Luna Wolves 42nd Company</s><br></div>
+
+</div></details>
+
+</aside>
+
+<div id="quote">
+	<i>"If only your Corpse-Emperor could see his Imperium now, he would reel in disgust at what it has become."</i><br>
+	<b>~Corradin Corvandro</b>
+</div><br>
+
+	<br><br>
+
+<details open="open"><summary class="section-head">Appearance</summary>
+
+	Corradin Corvandro is an imposing figure, clad in a striking full suit of black Power Armor adorned with intricate gold trimmings. The armor prominently displays the Sigil of the Black Legion on the right shoulder plate, while an array of bones is scattered across its surface, adding an air of dread.<br><br>
+
+Typically, Corradin wears a heavily modified helm, featuring a faceplate that resembles a menacing skull, fused with a jagged crown of spikes that enhances his fearsome appearance.<br><br>
+
+<br></br>
+
+
+
+</details><br>
+
+<details open="open"><summary class="section-head">Personality</summary>
+
+	Corradin Corvandro, once a revered Captain of the Luna Wolves, has transformed into a formidable Chaos Lord of the Ashen Horde, serving the enigmatic and all-consuming power of Chaos Undivided. His armor, once gleaming with the silver and blue of his chapter, now bears the charred and ashen hues of his new allegiance. Corradin's personality is a blend of cunning and ferocity; he commands both fear and respect from his followers. No longer bound by the honor and discipline of the Imperium, he revels in the chaos of battle, seeing conflict as a means of personal evolution and a testament to his newfound power.<br><br>
+
+Driven by an insatiable hunger for dominance, he orchestrates brutal campaigns against the enemies of Chaos, believing that only through total annihilation can he achieve true transcendence. His charisma, twisted and dark, draws the disillusioned and the desperate to his banner, forming a horde that embodies chaos in every sense. Corradin's tactical genius, honed during his days as a Captain, now manifests in ruthless ambushes and brutal skirmishes, where he embraces the unpredictability of war. He often engages in dark rituals, seeking to channel the energies of the warp, enhancing his already formidable combat prowess. Under his leadership, the Ashen Horde is not merely a band of marauders; it is a relentless force of destruction, driven by the will of Chaos itself, and Corradin stands at the center of this maelstrom, embodying the very essence of the dark gods he serves.<br></br>
+
+<br></br>
+
+</details><br>
+
+<details open="open"><summary class="section-head">Powers & Abilities</summary>
+
+<blockquote>
+	<h3></h3>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>
+	
+	Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</br><br>
+	
+	At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.<br><br>
+	
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>
+	
+	Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</br><br>
+	
+	At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.<br>
+
+</p>
+
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">History</summary>
+
+<blockquote>
+	<h3>Early Life</h3>
+<br><br>
+
+	<h3></h3>
+	<br><br>
+
+	<h3></h3>
+	
+</blockquote>
+
+</details><br>
+
+<details><summary class="section-head">Gallery</summary>
+<div id="gallery">
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/AJDTmQD.png" alt="Corradin without Helm">
+	Corradin without his Helmet on
+	</div>
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/9X366EW.png" alt="Tale's End">
+	Corradin's modified Chain Axe Tale's End
+	</div>
+
+	<div class="gal-itm">
+	<img src="https://i.imgur.com/saCo11l.png" alt="Sigil of the Black Legion">
+	The Sigil of the Black Legion
+	</div>
+
+</div>
+</details>
+
+</article>
+
+<a target="_blank" href="http://tessisamess.insanejournal.com/" id="cred">CODED WITH {♥} BY TESSISAMESS</a>
+
+</body>
+</html>
